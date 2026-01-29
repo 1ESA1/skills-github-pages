@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+MyPages: Welcome to my blog!
 ---
+# Welcome
+# Activity
+# Blog
